@@ -1,5 +1,4 @@
 oooooooo
 ddd
-ttttt
-ccc
-begin revert
+cccrevert
+revert begin
